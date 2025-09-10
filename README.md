@@ -41,6 +41,10 @@ Key points:
 The project has **100% test coverage**.<br>
 ![Test Coverage Report](docs/coverage.png)
 
+## Development Approach: Test-Driven Development (TDD)
+
+This project has been fully developed following **Test-Driven Development (TDD)**:
+
 ## Features
 
 - 100% **test coverage** (unit, api and functional tests).
